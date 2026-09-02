@@ -1,8 +1,9 @@
 /* The Brunch Munch — lightweight demo interactions.
-   Replace this placeholder with the real WhatsApp number in international format,
-   without +, spaces, or punctuation. Example: 15551234567
+   The primary WhatsApp number below was transcribed from the supplied profile screenshot.
+   Keep it in international format, without +, spaces, or punctuation.
 */
-const WHATSAPP_NUMBER = 'REPLACE_WITH_WHATSAPP_NUMBER';
+// Primary WhatsApp contact from the supplied business profile screenshot.
+const WHATSAPP_NUMBER = '233545291789';
 const WHATSAPP_PLACEHOLDER = 'REPLACE_WITH_WHATSAPP_NUMBER';
 
 const header = document.querySelector('.site-header');
